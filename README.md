@@ -1,4 +1,4 @@
-About me:
-Name: Phạm Phi Vũ
-University: SaiGon Technology University
-Email: phamvu22032005@gmail.com
+About me: \n
+Name: Phạm Phi Vũ \n
+University: SaiGon Technology University "\n"
+Email: phamvu22032005@gmail.com \n
